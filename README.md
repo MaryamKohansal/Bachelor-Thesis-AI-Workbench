@@ -29,9 +29,6 @@ Both components are developed and deployed independently.
 
 See the instructions in the `frontend` and `backend` folders.
 
-## Screenshots
-
-Screenshots of the application will be added here.
 
 ## Author
 
